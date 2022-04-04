@@ -1,5 +1,6 @@
 HELP.md
 target/
+resources/
 .mvn/
 *.cmd
 !.mvn/wrapper/maven-wrapper.jar
@@ -31,6 +32,6 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-
+**/src/main/resources/
 ### VS Code ###
 .vscode/
